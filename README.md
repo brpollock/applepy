@@ -41,6 +41,9 @@ Here's how I set up the dependencies (on Mac OS X 10.8):
     brew install sdl sdl_image sdl_mixer sdl_ttf portmidi hg
     pip install hg+http://bitbucket.org/pygame/pygame
 
+Linux dependencies (Ubuntu 18.04):
+
+    pip install numpy pygame flake8
 
 License
 -------
